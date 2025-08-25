@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Java7_ShorthandOpertors {
+public class Java08_ShorthandOpertors {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);

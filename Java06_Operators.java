@@ -1,4 +1,4 @@
-public class Java5_Operators {
+public class Java06_Operators {
 
     public static void main(String[] args) {
         // 1. Assingement Operators

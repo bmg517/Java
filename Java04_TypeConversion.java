@@ -1,4 +1,4 @@
-public class Java4_TypeConversion {
+public class Java04_TypeConversion {
 
     public static void main(String[] args) {
         int value = (int) 344.4d;

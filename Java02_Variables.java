@@ -1,4 +1,4 @@
-public class Java2_Variables {
+public class Java02_Variables {
     public static void main (String[]args){
         // Variables 
         short age1 = 19;

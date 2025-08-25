@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Java9_Practice {
+public class Java09_Practice {
 
     public static void main(String[] args) {
         // Q1. Create A Program That Take Two Number And Show All Arithmetic Operators.
