@@ -1,4 +1,4 @@
-public class Java06_Operator {
+public class Java07_Operator {
 
     public static void main(String[] args) {
         // 1. Arithmetic Operators
