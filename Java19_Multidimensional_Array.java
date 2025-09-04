@@ -14,7 +14,8 @@ public class Java19_Multidimensional_Array {
                 System.out.print(flats[i][j]);
                 System.out.print(" ");
             }
-            System.out.println(" ");
+            System.out.println("    ");
+            // System.out.println(flats[i].length);
     }
 }
 }
