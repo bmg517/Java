@@ -1,4 +1,4 @@
-public class datatype {
+public class Java01_datatype {
   public static void main(String[] args) {
     System.out.println("Date Type in Java");
     System.out.println(" ");
